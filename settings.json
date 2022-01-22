@@ -37,16 +37,16 @@
         "separators.interfaces.borderColor": "#72727257",
         "separators.methods.borderColor": "#72727257",
         "separators.namespaces.borderColor": "#72727257",
-        "separators.structs.borderColor": "#72727257",
+        "separators.structs.borderColor": "#72727257"
     },
     "editor.rulers": [
         {
             "column": 80,
             "color": "#72727257"
-        },
+        }
     ],
     "editor.wordWrapColumn": 120,
     "editor.wrappingIndent": "same",
     "editor.wrappingStrategy": "advanced",
-    "separators.maxDepth": 5,
+    "separators.maxDepth": 5
 }
